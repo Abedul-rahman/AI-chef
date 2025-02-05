@@ -71,6 +71,30 @@ ul.ingredients-list > li {
   color: #475467;
   line-height: 28px;
 }
+ul.ingredients-list >li >span{
+  font-size: 1.7rem;
+  display: flex;
+  font-size: 1.3rem; ;
+  align-items: center;
+  max-width: 110px;
+  justify-content: space-between;
+}
+ul.ingredients-list >li >span>button{
+  background-color: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  padding: 1px;
+  position: relative;
+  top: 2px;
+
+}
+ul.ingredients-list >li >span>button img{
+  
+height:17px ;
+width: auto;
+}
+
+
 
 .get-recipe-container {
   display: flex;
