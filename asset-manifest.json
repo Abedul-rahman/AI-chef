@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ai-chef/static/css/main.ade786b0.css",
-    "main.js": "/Ai-chef/static/js/main.30cda4a3.js",
-    "static/media/chef-claude-icon.png": "/Ai-chef/static/media/chef-claude-icon.340e1555799ac9dfa824.png",
-    "index.html": "/Ai-chef/index.html",
-    "static/media/bx-x.svg": "/Ai-chef/static/media/bx-x.d6768e9f136d786f6e9f355b9f8f50ba.svg",
-    "main.ade786b0.css.map": "/Ai-chef/static/css/main.ade786b0.css.map",
-    "main.30cda4a3.js.map": "/Ai-chef/static/js/main.30cda4a3.js.map"
+    "main.css": "/AI-chef/static/css/main.ade786b0.css",
+    "main.js": "/AI-chef/static/js/main.52e6416c.js",
+    "static/media/chef-claude-icon.png": "/AI-chef/static/media/chef-claude-icon.340e1555799ac9dfa824.png",
+    "index.html": "/AI-chef/index.html",
+    "static/media/bx-x.svg": "/AI-chef/static/media/bx-x.d6768e9f136d786f6e9f355b9f8f50ba.svg",
+    "main.ade786b0.css.map": "/AI-chef/static/css/main.ade786b0.css.map",
+    "main.52e6416c.js.map": "/AI-chef/static/js/main.52e6416c.js.map"
   },
   "entrypoints": [
     "static/css/main.ade786b0.css",
-    "static/js/main.30cda4a3.js"
+    "static/js/main.52e6416c.js"
   ]
 }
