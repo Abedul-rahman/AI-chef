@@ -25,6 +25,7 @@ export default function Main() {
     }
     function removeIngredient(ingredient){
         setIngredients(prev=>prev.filter(ing=>ing!==ingredient))
+        setRecipe("")
 
     }
     

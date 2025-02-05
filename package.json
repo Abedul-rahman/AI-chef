@@ -11,9 +11,9 @@
     "react-markdown": "^9.0.3",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://abedul-rahman.github.io/Ai-chef/",
+  "homepage": "https://abedul-rahman.github.io/AI-chef/",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "CI=false npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
